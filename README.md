@@ -26,14 +26,14 @@ During this project, the C/C++ **firmware** for ESP8266 is developed and a **PCB
 
 -----------------------------------------
 
-| <img src="https://github.com/mostafachegeni/CentoTech/blob/d6b454f9084086b4db7fea09fc5af59eecf61227/PCB/PCB_3.png" width="100%" height="100%"> |
+| <img src="https://github.com/mostafachegeni/CentoTech/blob/1d0612e333089b9268148cfd348f6f5952279100/PCB/PCB_3.png" width="100%" height="100%"> |
 |:--:| 
-| <img src="https://github.com/mostafachegeni/CentoTech/blob/d6b454f9084086b4db7fea09fc5af59eecf61227/PCB/PCB_4.png" width="100%" height="100%"> | 
+| <img src="https://github.com/mostafachegeni/CentoTech/blob/1d0612e333089b9268148cfd348f6f5952279100/PCB/PCB_4.png" width="100%" height="100%"> | 
 | ***Circuit*** | 
 
-| <img src="https://github.com/mostafachegeni/CentoTech/blob/d6b454f9084086b4db7fea09fc5af59eecf61227/PCB/PCB_6.png" width="100%" height="100%"> |
+| <img src="https://github.com/mostafachegeni/CentoTech/blob/1d0612e333089b9268148cfd348f6f5952279100/PCB/PCB_5.png" width="100%" height="100%"> |
 |:--:| 
-| <img src="https://github.com/mostafachegeni/CentoTech/blob/d6b454f9084086b4db7fea09fc5af59eecf61227/PCB/PCB_5.png" width="100%" height="100%"> | 
+| <img src="https://github.com/mostafachegeni/CentoTech/blob/1d0612e333089b9268148cfd348f6f5952279100/PCB/PCB_6.png" width="100%" height="100%"> | 
 | ***Circuit*** | 
 
 

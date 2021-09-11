@@ -8,8 +8,9 @@ During this project, the C/C++ **firmware** for ESP8266 is developed and a **PCB
 2) **Firmware**:
 > - The firmware is developed using C/C++ in Arduino IDE and implemented on ESP8266. 
 > - MC60 module is set up and configured using AT commands to send location data via SMS/Internet. 
-> - An application-layer cryptographic protocol is designed and implemented for secure communication between the Device, Server, and Mobile Application. 
+> - An application-layer cryptographic protocol based on AES is designed and implemented for secure communication between the Device, Server, and Mobile Application. 
 
+-----------------------------------------
 
 
 

@@ -21,7 +21,17 @@ During this project, the C/C++ **firmware** for ESP8266 is developed and a **PCB
 | <img src="https://github.com/mostafachegeni/CentoTech/blob/d6b454f9084086b4db7fea09fc5af59eecf61227/PCB/PCB_4.jpg" width="50%" height="50%" alt> | 
 |:--:| 
 | *image_caption* |
-                                                                                                                             
+
+| <img src="https://github.com/mostafachegeni/CentoTech/blob/d6b454f9084086b4db7fea09fc5af59eecf61227/PCB/PCB_6.jpg" width="50%" height="50%" alt> | 
+|:--:| 
+| *image_caption* |
+
+| <img src="https://github.com/mostafachegeni/CentoTech/blob/d6b454f9084086b4db7fea09fc5af59eecf61227/PCB/PCB_5.jpg" width="50%" height="50%" alt> | 
+|:--:| 
+| *image_caption* |
+
+-----------------------------------------
+
 | <img src="https://github.com/mostafachegeni/CentoTech/blob/d6b454f9084086b4db7fea09fc5af59eecf61227/PCB/PCB_0.png" width="50%" height="50%" alt> | 
 |:--:| 
 | *image_caption* |
@@ -34,13 +44,7 @@ During this project, the C/C++ **firmware** for ESP8266 is developed and a **PCB
 |:--:| 
 | *image_caption* |
 
-| <img src="https://github.com/mostafachegeni/CentoTech/blob/d6b454f9084086b4db7fea09fc5af59eecf61227/PCB/PCB_6.png" width="50%" height="50%" alt> | 
-|:--:| 
-| *image_caption* |
-
-| <img src="https://github.com/mostafachegeni/CentoTech/blob/d6b454f9084086b4db7fea09fc5af59eecf61227/PCB/PCB_5.png" width="50%" height="50%" alt> | 
-|:--:| 
-| *image_caption* |
+-----------------------------------------
 
 | <img src="https://github.com/mostafachegeni/CentoTech/blob/d6b454f9084086b4db7fea09fc5af59eecf61227/PCB/SCH_1.png" width="50%" height="50%" alt> | 
 |:--:| 
@@ -54,6 +58,8 @@ During this project, the C/C++ **firmware** for ESP8266 is developed and a **PCB
 |:--:| 
 | *image_caption* |
 
+
+-----------------------------------------
 
 
 

@@ -1,6 +1,6 @@
 # CentoTech
 
-During this project, the C/C++ **firmware** for ESP8266 is developed and a **PCB** design is done for a vehicle tracking device.
+During this project, the C/C++ **firmware** for ESP8266 is developed and a **PCB** design is done for a ***Vehicle Tracking Device***.
 
 1) **PCB**:
 > - The PCB is designed in Altium Designer Software. The circuit is designed based on the ESP8266 wifi module and MC60 quad-band GSM/GPRS/GNSS module.
